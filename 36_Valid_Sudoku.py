@@ -1,7 +1,5 @@
 class Solution:
     
-    #Runtime: 158 ms, faster than 45.57% of Python3 online submissions for Valid Sudoku.
-    #Memory Usage: 13.9 MB, less than 35.29% of Python3 online submissions for Valid Sudoku.
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         
         #define empty dicts of sets

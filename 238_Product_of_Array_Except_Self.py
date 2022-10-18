@@ -1,7 +1,5 @@
 class Solution:
     
-    #Runtime: 372 ms, faster than 46.11% of Python3 online submissions for Product of Array Except Self.
-    #Memory Usage: 21.1 MB, less than 74.99% of Python3 online submissions for Product of Array Except Self.
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         
         #initialize the the result list

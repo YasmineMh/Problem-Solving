@@ -9,8 +9,7 @@ class Solution:
         return dict_s
     
     
-    #Runtime: 73 ms, faster than 57.25% of Python3 online submissions for Valid Anagram.
-    #Memory Usage: 14.4 MB, less than 67.20% of Python3 online submissions for Valid Anagram.
+
     def isAnagram(self, s: str, t: str) -> bool:
         dict_s = {}
         dict_t = {}

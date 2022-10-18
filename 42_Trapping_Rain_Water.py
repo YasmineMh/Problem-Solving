@@ -1,7 +1,5 @@
 class Solution:
     
-    #Runtime: 136 ms, faster than 89.94% of Python3 online submissions for Trapping Rain Water.
-    #Memory Usage: 16.1 MB, less than 45.17% of Python3 online submissions for Trapping Rain Water.
     def trap(self, height: List[int]) -> int:
         
         begin, end = 0, len(height)-1

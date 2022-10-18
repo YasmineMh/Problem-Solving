@@ -1,6 +1,4 @@
 class Solution:
-    # Runtime: 199 ms, faster than 39.61% of Python3 online submissions for Permutation in String.
-    # Memory Usage: 14 MB, less than 68.09% of Python3 online submissions for Permutation in String.
     def checkInclusion(self, s1: str, s2: str) -> bool:
         
         if len(s1)>len(s2):

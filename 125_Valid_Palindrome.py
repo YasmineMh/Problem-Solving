@@ -1,7 +1,5 @@
 class Solution:
     
-    #Runtime: 101 ms, faster than 20.30% of Python3 online submissions for Valid Palindrome.
-    #Memory Usage: 14.2 MB, less than 99.23% of Python3 online submissions for Valid Palindrome.
     def isPalindrome(self, s: str) -> bool:
         s_cleaned = ""
         for i in s:

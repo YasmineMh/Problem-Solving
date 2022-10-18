@@ -1,6 +1,4 @@
 class Solution:
-    # Runtime: 283 ms, faster than 38.29% of Python3 online submissions for Longest Repeating Character Replacement.
-    # Memory Usage: 13.8 MB, less than 93.23% of Python3 online submissions for Longest Repeating Character Replacement.
     def characterReplacement(self, s: str, k: int) -> int:
         dict_count_letters = {}
         begin = 0

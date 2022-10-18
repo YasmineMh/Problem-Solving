@@ -1,7 +1,5 @@
 class Solution:
     
-    #Runtime: 2595 ms, faster than 28.37% of Python3 online submissions for Longest Consecutive Sequence.
-    #Memory Usage: 29 MB, less than 24.09% of Python3 online submissions for Longest Consecutive Sequence.
     def longestConsecutive(self, nums: List[int]) -> int:
         
         #convert the nums list to a set
